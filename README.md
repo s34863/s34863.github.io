@@ -5,7 +5,6 @@
 ## หน้าเว็บ
 - Home
 - About Me
-- Education
 - Achievements
 - Skills
 - Future Goal
